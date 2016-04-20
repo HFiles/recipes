@@ -1,0 +1,6 @@
+put water in pot
+put eggs
+put on fire
+wait to boil
+wait 5 minutes
+stop fire
